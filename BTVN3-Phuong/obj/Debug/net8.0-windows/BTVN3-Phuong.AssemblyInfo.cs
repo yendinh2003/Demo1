@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTVN3-Phuong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49b7fd2e9b7a5193288d9d51bdaad97711f6a88b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e0e52de84d338d4d823a9d54360971fa9d4bb8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTVN3-Phuong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTVN3-Phuong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
