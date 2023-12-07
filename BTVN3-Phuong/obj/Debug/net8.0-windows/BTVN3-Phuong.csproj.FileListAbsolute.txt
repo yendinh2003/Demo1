@@ -1,0 +1,16 @@
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\bin\Debug\net8.0-windows\BTVN3-Phuong.exe
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\bin\Debug\net8.0-windows\BTVN3-Phuong.deps.json
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\bin\Debug\net8.0-windows\BTVN3-Phuong.runtimeconfig.json
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\bin\Debug\net8.0-windows\BTVN3-Phuong.dll
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\bin\Debug\net8.0-windows\BTVN3-Phuong.pdb
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3_Phuong.Form1.resources
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.csproj.GenerateResource.cache
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.AssemblyInfoInputs.cache
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.AssemblyInfo.cs
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.csproj.CoreCompileInputs.cache
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.dll
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\refint\BTVN3-Phuong.dll
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.pdb
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\BTVN3-Phuong.genruntimeconfig.cache
+F:\GUI\BTVN3-Phuong\BTVN3-Phuong\obj\Debug\net8.0-windows\ref\BTVN3-Phuong.dll
